@@ -1,2 +1,3 @@
 # Linear-Algebra-Erdman
-Problem set from Erdman and worked solutions
+Problem sets from Erdman and worked solutions
+Done on my own for a UC San Diego class that didn't have homework.
